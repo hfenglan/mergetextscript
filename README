@@ -1,5 +1,5 @@
 Please place text files to be combined into the "input" folder.
 
-Please enter "python project.py -name of folder-" into terminal while terminal is pointed at the current directory.
+Please enter "python project.py input" into terminal while terminal is pointed at the current directory.
 
-
+If the name of the "input" folder changes, please change the argument after "python project.py" into the new name of the folder.
